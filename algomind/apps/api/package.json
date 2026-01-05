@@ -1,0 +1,14 @@
+{
+  "name": "algomind-api",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "bullmq": "^5.8.0",
+    "fastify": "^4.26.1",
+    "pino-pretty": "^11.2.2",
+    "zod": "^3.22.4"
+  }
+}
