@@ -1,0 +1,7 @@
+docker compose is running
+postgres / redis / minio / api / runner are up
+health endpoint responds OK
+job creation works
+runner executes job
+job status transitions
+logs and results are returned
